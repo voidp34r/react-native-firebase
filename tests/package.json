@@ -47,7 +47,7 @@
     "should": "^11.2.0",
     "should-sinon": "^0.0.5",
     "sinon": "^3.2.1",
-    "url-parse": "^1.2.0"
+    "url-parse": "^1.5.0"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
